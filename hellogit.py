@@ -1,2 +1,2 @@
-print("Hello Git master modify!")
+print("Hello Git master merge modify!")
 print("I'm second branch")
